@@ -16,7 +16,13 @@ Visual Insights:
 Dashboard Links:
 
 * Dashboard 1: https://public.tableau.com/views/EntertainerDataAnalysisDashboard1/EntertainerDataAnalysis?:language=en-GB&:display_count=n&:origin=viz_share_link
+
+  ![Entertainer Data Analysis (Dashboard 1)](https://github.com/prathmesh-khapare/Entertainer-Data-Analysis/assets/110691911/cb5e25e8-455e-42ad-a10a-2f6d4de85fea)
+
 * Dashboard 2: https://public.tableau.com/views/EntertainerDataAnalysisDashboard2/EntertainerDataAnalysisDashboard2?:language=en-GB&:display_count=n&:origin=viz_share_link
+
+  ![Entertainer Data Analysis (Dashboard 2)](https://github.com/prathmesh-khapare/Entertainer-Data-Analysis/assets/110691911/6b076e00-55fc-4630-b3c1-e137b74c6f1e)
+
 
 Essential Documents, including High-Level Design (HLD), Low-Level Design (LLD), Wireframe, Architecture, and a Detailed Project Report, are available for reference.
 
